@@ -8,9 +8,9 @@ Authentication project that allows you to view and submit a secret only if you a
 - CSS
 
 ## How it looks
-[!home page](/public/images/home-page.JPG)
-[!registration and login](/public/images/secrets.JPG)
-[!submit a secret](/public/images/submit.JPG)
+![home page](/public/images/home-page.JPG)
+![registration and login](/public/images/secrets.JPG)
+![submit a secret](/public/images/submit.JPG)
 
 ## What does the project do
 - allow users to register/login with OAuth or email and password, using passport strategies
